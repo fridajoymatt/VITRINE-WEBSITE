@@ -12,9 +12,9 @@
         <p align="center">This is a showcase website for the presentation of a law firm.</p>
         <p align="center"><a href="https://folly.idn-group.com/">Follow the demo link </a></p>
       
-      <h2 align="center">Connect with me</h2>
 
 <div align="center">
+       <h2 align="center">Connect with me</h2>
   <a href="https://github.com/fridajoymatt/" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
